@@ -23,7 +23,7 @@ public class BasePageTest {
 		 System.setProperty("webdriver.chrome.driver", "C:\\Program Softwares\\Selenium Drivers\\chromedriver_win32\\chromedriver.exe"); 		
 		   driver=new ChromeDriver();
 			driver.manage().window().maximize(); 	
-			driver.manage().timeouts().implicitlyWait( WaitUtil.IMPLICIT_WAIT,TimeUnit.SECONDS);
+//			driver.manage().timeouts().implicitlyWait( WaitUtil.IMPLICIT_WAIT,TimeUnit.SECONDS);
 //			 driver.get("https://demoqa.com/automation-practice-form");
 			 
 	 }
