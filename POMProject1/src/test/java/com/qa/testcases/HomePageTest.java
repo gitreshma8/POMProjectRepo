@@ -12,8 +12,6 @@ public class HomePageTest {
   public void beforeTest() {
   }
 
-  @AfterTest
-  public void afterTest() {
-  }
+
 
 }
